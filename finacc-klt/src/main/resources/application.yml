@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: KLT Converter
+
+server:
+  port: 8080
+  servlet:
+    context-path: /klt
+
+baseUrl: https://api.apilayer.com/exchangerates_data/latest
+keyName: apikey
+keyValue: LS3rR1GV8ykL5aXz4uhKDuhg4LyO7b65
+
+
